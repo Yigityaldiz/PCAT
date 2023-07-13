@@ -1,0 +1,14 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "FirstNode-js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YY",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.0.0"
+  }
+}
