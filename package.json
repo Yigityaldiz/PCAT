@@ -4,11 +4,16 @@
   "description": "FirstNode-js app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "author": "YY",
   "license": "ISC",
   "devDependencies": {
     "prettier": "3.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
   }
 }
